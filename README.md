@@ -9,7 +9,7 @@ Checkout the video here: https://www.youtube.com/watch?v=v784VBx9w8g
 
 And a walkthrough by BugbOuntyReportsExplained: https://www.youtube.com/watch?v=ZKrABs-N9wA
 
-Solution can be founde in `DO_NOT_ACCESS`
+Solution can be found in `DO_NOT_ACCESS`
 
 ```
 docker-compose up
